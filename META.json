@@ -1,0 +1,60 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:59.212791",
+  "default_ports": [
+    3000,
+    4000,
+    5000,
+    5432,
+    8000,
+    8001,
+    9999
+  ],
+  "dependencies": [],
+  "description": "Supabase is an open-source Firebase alternative providing a PostgreSQL database, authentication, real-time subscriptions, storage, and vector embeddings. This guide covers self-hosting Supabase on your own infrastructure.",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/supabase",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/supabase",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.212809",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "supabase",
+  "repository_url": "https://github.com/howtomgr/supabase",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "alpine",
+    "macos"
+  ],
+  "tags": [
+    "miscellaneous",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "Supabase Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/supabase"
+}
